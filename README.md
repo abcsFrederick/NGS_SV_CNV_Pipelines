@@ -1,4 +1,4 @@
-# NGS_SV_Pipelines
+# NGS_SVs_Pipelines
 
 Snakemake pipelines for NGS Structural Variants (SVs) and Copy Numbers Variation (CNVs) detections, annotation and visualization. The software package includes two pipelines, one pipeline is for handling illumina short-read data and the other one is 
 for analyzing long-read sequencign data from PacBio and 10x Genomics technologies.

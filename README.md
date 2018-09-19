@@ -18,8 +18,7 @@ The pipeline includes features such as NGS data preprocessing and QC, SVs detect
 
 ## Software Installation
 
-   download and install all Prerequisites and Referencee genome files according to the specific software tool's installation instruction.
-   download and install the snakemake file from this software package.
+   Please download and install all prerequisites and referencee genome files according to the specific software tool's installation instruction. Please download and install the snakemake file from this software package.
 
 ## Running the NGS SV Pipelines
 

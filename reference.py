@@ -63,3 +63,4 @@ if config.ref == "hg38":
 	fregs="/installed_tools/ancestry/hapmap3.8populations.hg38.freqs"
 	fai = "/installed_tools/RefGenomes/hg38/fasta/hg38_genome_with_contigs.fa.fai"
 	svviz_gtf="/installed_tools/RefGenomes/hg38/GTF/gencode.v24.annotation.sort.gtf.gz"
+	dbsnp_indel = "/installed_tools/RefGenomes/dbsnp_indel.vcf"

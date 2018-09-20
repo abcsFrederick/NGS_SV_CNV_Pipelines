@@ -23,7 +23,7 @@ The pipeline includes features such as NGS data preprocessing and QC, SVs detect
 ## Running the NGS SV Pipelines
 
 
-    > run_submit.sh config.py
+    > submit.sh SNAKEMAKE
 
 ## Contact
 
